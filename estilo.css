@@ -1,0 +1,79 @@
+body {
+    background-color: #FFFFE0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+header {
+    text-align: right;
+    margin-left: 10%;
+    margin-right: 9%;
+    height: 60px;
+    border: 3px solid #000000;
+    font-weight: bold, inherit;
+    font-size: x-large;
+}
+
+form {
+    background-color: #FFEFD5;
+    margin-left: 10%;
+    margin-right: 9%;
+    height: 1900px;
+    border: 3px solid #000000;
+}
+
+.principal {
+    background-color: #FFEFD5;
+    position: absolute;
+    padding: 0;
+    margin-left: 24%;
+    border-left: 2px solid #696666;
+    margin-right: 12%;
+    margin-top: -35%;
+    padding-left: 2%;
+    padding-right: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+p::first-letter {
+    font-size: 150%;
+}
+
+h3::first-letter {
+    font-size: 150%;
+}
+
+form img {
+    width: 10%;
+    height: 9%;
+    border-radius: 8%;
+    margin-left: 9%;
+    margin-top: 3%;
+    position: relative;
+}
+
+.info {
+    width: 30%;
+    height: 10%;
+    margin-left: 2%;
+    margin-top: 2%;
+    position: relative;
+}
+
+.contacto li {
+    font-size: large;
+}
+
+.contacto h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form .firma {
+    position: relative;
+    padding: 20;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 109%;
+    height: 1500px;
+}
